@@ -1,2 +1,4 @@
 # tec-Dead-Bug
-tec-1 built dead bug style, no etching a pcb allowed, but a blank pcb as  grnd plane is ok, with the odd, ussr weird etc oldest parts u can find or make the part. neat soldering not allowed.
+A tec-1 with addons built using dead bug style, no etched tracks, use blank pcb as ground plane, adding parts and islands soldered or glue etc in any position with old and odd parts, from anywhere ie USSR, area 51, ufo debri, deorbited satellites, stolen mil tec, downed fighter jets, weird and exotic old or new or diy parts put together. 
+
+
